@@ -1,3 +1,5 @@
+package com.hellokaton.blade;
+
 public class Generate {
     int yyy = 5;
     yyy = 7;
