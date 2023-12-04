@@ -6,4 +6,7 @@ public class GenerateTest extends TestCase {
 
     public void testMain() {
     }
+
+    public void testTestMain() {
+    }
 }
